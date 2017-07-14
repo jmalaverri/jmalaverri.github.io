@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>https://jmalaverri.github.io/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Joana Malaverri</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Implementing W2Share: Supporting Reproducibility and Quality Assessment in eScience</title>
+      <link>https://jmalaverri.github.io/publication/impl-w2share/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/publication/impl-w2share/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradual Migration of Legacy Software to the Cloud: a Telco OSS Case Study. In: International Conference on Dependable Systems and Networks</title>
+      <link>https://jmalaverri.github.io/publication/gradual-migration/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/publication/gradual-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A provenance-based approach to evaluate data quality in eScience</title>
+      <link>https://jmalaverri.github.io/publication/provenance-based-approach/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/publication/provenance-based-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
