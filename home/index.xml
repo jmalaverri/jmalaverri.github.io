@@ -6,9 +6,66 @@
     <description>Recent content in Homes on Joana Malaverri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Joana Malaverri</copyright>
+    <copyright>&amp;copy; 2018 Joana Malaverri</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jmalaverri.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jmalaverri.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/about/</guid>
+      <description>I am a postdoctoral researcher at the Computer Research Laboratory (LRI) at University Paris Sud and also a member of the LaHDAK group. Former member of LIS Lab at IC-Unicamp, under the mentorship of Prof. Claudia Bauzer Medeiros. My research interests include, but are not limited to, scientific data management, data quality analysis, and software development. Nowadays, I am currently working on the development of a solution to assess the veracity of Knowledge Bases based on spatio-temporal context.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://jmalaverri.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jmalaverri.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://jmalaverri.github.io/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/service/</guid>
+      <description> Program committee:  JDSE 2018 WTD 2017 WTD 2012  Subreviewer for Conference:  AICCSA 2018 TaPP 2017 ERIN3 2012  </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jmalaverri.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/teaching/</guid>
+      <description>I was a teaching instructor for the following courses:
+ Relational Database instructor: Business Intelligence and Big Data course (Aug-Sep /2017 - Unianchieta). MC102: Algorithms and Computer Programming (2 /2017 - UNICAMP) link MC102: Algorithms and Computer Programming (2 /2016 - UNICAMP)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jmalaverri.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmalaverri.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

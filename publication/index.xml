@@ -6,9 +6,11 @@
     <description>Recent content in Publications on Joana Malaverri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Joana Malaverri</copyright>
+    <copyright>&amp;copy; 2018 Joana Malaverri</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jmalaverri.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Implementing W2Share: Supporting Reproducibility and Quality Assessment in eScience</title>
